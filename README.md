@@ -1,1 +1,1 @@
-# the-joker
+# GUI (The Joker & Mini Calculator)
